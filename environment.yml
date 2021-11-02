@@ -1,4 +1,4 @@
-name: freqtrade
+name: freqtrade-metatrader
 channels:
   - conda-forge
 # - defaults
